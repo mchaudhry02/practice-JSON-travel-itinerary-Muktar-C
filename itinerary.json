@@ -20,29 +20,6 @@
         {
           "title": "Louvre Museum Tour",
           "time": "2:00 PM"
-        },
-        {
-          "title": "Seine River Cruise",
-          "time": "7:00 PM"
-        }
-      ]
-    },
-    {
-      "location": "Rome",
-      "arrivalDate": "2026-06-21",
-      "departureDate": "2026-06-26",
-      "activities": [
-        {
-          "title": "Colosseum Guided Tour",
-          "time": "9:00 AM"
-        },
-        {
-          "title": "Vatican Museums and Sistine Chapel",
-          "time": "2:30 PM"
-        },
-        {
-          "title": "Trevi Fountain Evening Walk",
-          "time": "6:00 PM"
         }
       ]
     },

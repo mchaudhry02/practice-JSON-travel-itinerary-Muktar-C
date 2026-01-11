@@ -1,0 +1,65 @@
+{
+  "tripName": "European Summer Adventure",
+  "traveler": {
+    "name": "Muktar C",
+    "contact": {
+      "email": "Muktar.C@email.com",
+      "phone": "+1-555-0123"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Paris",
+      "arrivalDate": "2026-06-15",
+      "departureDate": "2026-06-20",
+      "activities": [
+        {
+          "title": "Visit the Eiffel Tower",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Louvre Museum Tour",
+          "time": "2:00 PM"
+        },
+        {
+          "title": "Seine River Cruise",
+          "time": "7:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Rome",
+      "arrivalDate": "2026-06-21",
+      "departureDate": "2026-06-26",
+      "activities": [
+        {
+          "title": "Colosseum Guided Tour",
+          "time": "9:00 AM"
+        },
+        {
+          "title": "Vatican Museums and Sistine Chapel",
+          "time": "2:30 PM"
+        },
+        {
+          "title": "Trevi Fountain Evening Walk",
+          "time": "6:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Barcelona",
+      "arrivalDate": "2026-06-27",
+      "departureDate": "2026-07-01",
+      "activities": [
+        {
+          "title": "Sagrada Familia Tour",
+          "time": "10:30 AM"
+        },
+        {
+          "title": "Park Güell Visit",
+          "time": "3:00 PM"
+        }
+      ]
+    }
+  ]
+}
